@@ -43,14 +43,15 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ### 4. Preview
-### app home screen
-![Home Screenshot](/screenshots-home_screen.png)
+### App Home Screen
+![Home Screenshot](screenshots/screenshots-home_screen.png)
 
-### upload section
-![Upload Screenshot](/screenshots-upload.png)
+### Upload Section
+![Upload Screenshot](screenshots/screenshots-upload.png)
 
 ### Transcript Display
-![Transcript Screenshot](/screenshots-transcription.png)
+![Transcript Screenshot](screenshots/screenshots-transcription.png)
+
 
 ### Made By
   Kaustubh 
