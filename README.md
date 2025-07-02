@@ -44,13 +44,13 @@ streamlit run app.py
 
 ### 4. Preview
 ### app home screen
-![Home Screenshot](Vocalyn/screenshots-home_screen.png)
+![Home Screenshot](/screenshots-home_screen.png)
 
 ### upload section
-![Upload Screenshot](Vocalyn/screenshots-upload.png)
+![Upload Screenshot](/screenshots-upload.png)
 
 ### Transcript Display
-![Transcript Screenshot](Vocalyn/screenshots-transcription.png)
+![Transcript Screenshot](/screenshots-transcription.png)
 
 ### Made By
   Kaustubh 
