@@ -42,6 +42,16 @@ pip install -r requirements.txt
 ### 3. Run the application
 streamlit run app.py
 
+### 4. Preview
+### app home screen
+![Home Screenshot](Vocalyn/screenshots-home_screen.png)
+
+### upload section
+![Upload Screenshot](Vocalyn/screenshots-upload.png)
+
+### Transcript Display
+![Transcript Screenshot](Vocalyn/screenshots-transcription.png)
+
 ### Made By
   Kaustubh 
 
