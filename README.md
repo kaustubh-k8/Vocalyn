@@ -54,7 +54,7 @@ streamlit run app.py
 
 
 
-Made By  
+Made By:  
 Kaustubh 
 
 - GitHub: @kaustubh-k8
