@@ -44,13 +44,7 @@ streamlit run app.py
 
 ### 4. Preview
 ### App Home Screen
-![Home Screenshot](screenshots/home_screen.png)
 
-### Upload Section
-![Upload Screenshot](screenshots/upload.png)
-
-### Transcript Display
-![Transcript Screenshot](screenshots/transcription.png)
 
 
 
